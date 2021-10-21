@@ -1,4 +1,4 @@
-[<img src="./assets/Untitled design-Max-Quality.jpg" width="100%">](https://github.com/Alex76456?tab=repositories)
+[<img src="./Untitled design-Max-Quality.jpg" width="100%">](https://github.com/Alex76456?tab=repositories)
 
 ## I'm  back-end developer
 
