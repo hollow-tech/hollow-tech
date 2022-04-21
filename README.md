@@ -13,7 +13,7 @@
 ![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=blue)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=green)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![Vue](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=Vue.js&logoColor=green)
+![Vue](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 
 
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Github&logoColor=white)
