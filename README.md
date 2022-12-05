@@ -1,6 +1,6 @@
 [<img src="./Untitled design-Max-Quality.jpg" width="100%">](https://github.com/Alex76456?tab=repositories)
 
-## I'm  back-end developer
+## I'm  front-end developer
 
 ## I'm at the beginning of my journey.
 
