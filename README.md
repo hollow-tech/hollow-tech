@@ -21,23 +21,19 @@
 
 
 
-### In progress:
-![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=blue)
-
-
 
 ## Проекты, которые стоит упомянуть:
 
 * ### E-commerce website with React:
     
    https://github.com/hollow-tech/e-commerce_react
-* ### twitter clone React:
+* ### Twitter clone React:
     
    https://github.com/hollow-tech/twitter_clone_react
 * ### Webtronics test task:
     
    https://github.com/hollow-tech/webtronics_test
-* ### Japanese cuisine website React: 
+* ### Japanese cuisine website React:
     
    https://github.com/hollow-tech/japanese_cuisine_react
 * ### Japanese cuisine website React:
