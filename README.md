@@ -36,9 +36,7 @@
 * ### Japanese cuisine website React:
     
    https://github.com/hollow-tech/japanese_cuisine_react
-* ### Japanese cuisine website React:
-    
-   https://github.com/hollow-tech/japanese_cuisine_react
+
 
 
 ### Follow Me:
