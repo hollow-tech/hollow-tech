@@ -10,14 +10,13 @@
 
 
 ### Languages and Tools:
-![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=blue)
-![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=green)
+![HTML](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=html&logoColor=orange)
+![CSS](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![Vue](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
+![REACT](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 
 
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Github&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=orange)
 ![MongoDB](https://img.shields.io/badge/-Mongodb-090909?style=for-the-badge&logo=mongoDB&logoColor=GREEN)
 
 
@@ -29,32 +28,15 @@
 
 # Проекты, которые стоит упомянуть:
 
-## Командные проекты:
-* ### Smartsreda - Инвестиционная программа Умная SREDA:
-
-    https://smartsreda.one/
-
-## Собственные проекты:
-
-* ### Django_cinema(онлайн кинотеатр):
-
-    https://github.com/hollow-tech/online-cinema
-
-   
-* ### E-commerce website:
-
-    https://github.com/hollow-tech/e_commerce_website
-
-* ### Welbex task:
-
-    https://github.com/hollow-tech/task_table
-
-    таблица в формате SPA/сортировка и фильтрация -тестовое
-
-* ### Fixing workshop website:
-
-    https://github.com/hollow-tech/fixing_service_website
-
+    * ### E-commerce website with React:
+        https://github.com/hollow-tech/e-commerce_react
+    * ### twitter clone React:
+        https://github.com/hollow-tech/twitter_clone_react
+    * ### Webtronics test task: 
+        https://github.com/hollow-tech/webtronics_test
+    * ### Japanese cuisine website React: 
+        https://github.com/hollow-tech/japanese_cuisine_react
+    * ### Japanese cuisine website React: 
 
 
 ### Follow Me:
