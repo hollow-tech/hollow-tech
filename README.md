@@ -29,14 +29,20 @@
 ## Проекты, которые стоит упомянуть:
 
     * ### E-commerce website with React:
+    
         https://github.com/hollow-tech/e-commerce_react
     * ### twitter clone React:
+    
         https://github.com/hollow-tech/twitter_clone_react
-    * ### Webtronics test task: 
+    * ### Webtronics test task:
+    
         https://github.com/hollow-tech/webtronics_test
     * ### Japanese cuisine website React: 
+    
         https://github.com/hollow-tech/japanese_cuisine_react
-    * ### Japanese cuisine website React: 
+    * ### Japanese cuisine website React:
+    
+        https://github.com/hollow-tech/japanese_cuisine_react
 
 
 ### Follow Me:
