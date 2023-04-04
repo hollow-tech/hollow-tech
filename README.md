@@ -26,7 +26,7 @@
 
 
 
-# Проекты, которые стоит упомянуть:
+## Проекты, которые стоит упомянуть:
 
     * ### E-commerce website with React:
         https://github.com/hollow-tech/e-commerce_react
