@@ -1,4 +1,4 @@
-[<img src="./Untitled design-Max-Quality.jpg" width="100%">](https://github.com/hollow-tech)
+[<img src="./my name.jpg" width="100%">](https://github.com/hollow-tech)
 
 ## I'm  Frontend developer
 
