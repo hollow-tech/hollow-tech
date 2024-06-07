@@ -22,15 +22,15 @@
 
 ## Проекты, которые стоит упомянуть:
 
-* ### E-commerce website with React:
+* ### Криптоволютная биржа на React:
     
-   https://github.com/hollow-tech/e-commerce_react
-* ### Twitter clone React:
+   [https://github.com/hollow-tech/e-commerce_react](https://github.com/hollow-tech/Sunny)
+* ### E-commerce website на React:
     
-   https://github.com/hollow-tech/twitter_clone_react
-* ### Webtronics test task:
+   [https://github.com/hollow-tech/twitter_clone_react](https://github.com/hollow-tech/e-commerce_website_react)
+* ### Webtronics task:
     
-   https://github.com/hollow-tech/webtronics_test
+   [https://github.com/hollow-tech/webtronics_test](https://github.com/hollow-tech/landing_webtronics)
 * ### Japanese cuisine website React:
     
    https://github.com/hollow-tech/japanese_cuisine_react
